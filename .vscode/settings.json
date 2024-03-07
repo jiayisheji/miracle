@@ -1,0 +1,46 @@
+{
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit",
+    "source.organizeImports": "explicit",
+    "source.fixAll.stylelint": "explicit"
+  },
+  "editor.snippetSuggestions": "top",
+  "editor.formatOnPaste": false,
+  "editor.formatOnSave": true,
+  "editor.autoIndent": "full",
+  "editor.codeLens": false,
+  "editor.fontLigatures": true,
+  "editor.formatOnType": false,
+  "editor.minimap.enabled": false,
+  "editor.renderWhitespace": "none",
+  "editor.tabCompletion": "on",
+  "editor.tabSize": 2,
+  "emmet.triggerExpansionOnTab": true,
+  "explorer.sortOrder": "type",
+  "typescript.tsdk": "node_modules\\typescript\\lib",
+  "typescript.enablePromptUseWorkspaceTsdk": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[scss]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "cSpell.words": [
+    "dtos",
+    "Nestjs",
+    "Nextjs",
+    "nextui",
+    "stylelint",
+    "tailwindcss",
+    "typeorm",
+    "varchar"
+  ],
+  "css.validate": false,
+  "less.validate": false,
+  "scss.validate": false,
+  "markdownlint.ignore": [
+    "README.md",
+    "node_modules/**/.md"
+  ],
+  "eslint.validate": [
+    "json"
+  ]
+}
